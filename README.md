@@ -152,8 +152,8 @@ if __name__ == "__main__":
     root = tk.Tk()
     game = TicTacToeGUI(root)
     root.mainloop()
-=======
-This is a simple Tic-Tac-Toe game implemented in Python using Tkinter for the GUI. Players can enjoy a classic game of Tic-Tac-Toe with an interactive interface.
+============
+#This is a simple Tic-Tac-Toe game implemented in Python using Tkinter for the GUI. Players can enjoy a classic game of Tic-Tac-Toe with an interactive interface.
 
 ## How to Play
 

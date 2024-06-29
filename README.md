@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-<<<<<<< HEAD
+
 ## Overview
 
 The **Tic-Tac-Toe Game** is a Python application that allows two players to play the classic Tic-Tac-Toe game on a graphical interface built with Tkinter.

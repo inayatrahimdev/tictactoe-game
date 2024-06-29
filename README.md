@@ -152,7 +152,8 @@ if __name__ == "__main__":
     root = tk.Tk()
     game = TicTacToeGUI(root)
     root.mainloop()
- ```
+```
+ 
 
 ### This is a simple Tic-Tac-Toe game implemented in Python using Tkinter for the GUI(Graphical User Interface). Players can enjoy a classic game of Tic-Tac-Toe with an interactive interface.
 
@@ -162,3 +163,16 @@ if __name__ == "__main__":
 - Click on an empty cell to make a move.
 - The first player to align three of their symbols (horizontally, vertically, or diagonally) wins.
 - If all cells are filled and no player has aligned three symbols, the game ends in a tie.
+
+## Contribution
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any inquiries or feedback, please reach out to [inayatrahim006@gmail.com](mailto:inayatrahim006@gmail.com).
+

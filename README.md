@@ -1,5 +1,6 @@
 # Tic-Tac-Toe Game
 
+<<<<<<< HEAD
 ## Overview
 
 The **Tic-Tac-Toe Game** is a Python application that allows two players to play the classic Tic-Tac-Toe game on a graphical interface built with Tkinter.
@@ -151,3 +152,13 @@ if __name__ == "__main__":
     root = tk.Tk()
     game = TicTacToeGUI(root)
     root.mainloop()
+=======
+This is a simple Tic-Tac-Toe game implemented in Python using Tkinter for the GUI. Players can enjoy a classic game of Tic-Tac-Toe with an interactive interface.
+
+## How to Play
+
+- Player X starts the game.
+- Click on an empty cell to make a move.
+- The first player to align three of their symbols (horizontally, vertically, or diagonally) wins.
+- If all cells are filled and no player has aligned three symbols, the game ends in a tie.
+>>>>>>> f85381ef71afb69e5a6e4c2f584d9b8086433ecd

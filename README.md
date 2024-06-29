@@ -15,13 +15,13 @@ The **Tic-Tac-Toe Game** is a Python application that allows two players to play
 ## Screenshots
 
 ### Player X's Turn
-![Player X's Turn](screenshot player_x_turn.png)
+![Player X's Turn](screenshot_player_x_turn.png)
 
 ### Player O's Turn
-![Player O's Turn](screenshot player_o_turn.png)
+![Player O's Turn](screenshot_player_o_turn.png)
 
 ### Game Result
-![Game Result](screenshot game_result.png)
+![Game Result](screenshot_game_result.png)
 
 ## How to Use
 
